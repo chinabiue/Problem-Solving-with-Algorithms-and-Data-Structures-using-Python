@@ -1,4 +1,4 @@
-# By Brad Miller and David Ranum, Luther College
+# Table of contents\_original
 
 ## 
 
