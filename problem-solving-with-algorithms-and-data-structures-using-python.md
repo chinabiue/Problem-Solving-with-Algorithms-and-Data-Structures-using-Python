@@ -1,6 +1,8 @@
 # Table of contents\_original
 
-## 
+## Problem Solving with Algorithms and Data Structures using Python
+
+By Brad Miller and David Ranum, Luther College
 
 * [Assignments](https://runestone.academy/runestone/assignments/chooseAssignment.html)
 
